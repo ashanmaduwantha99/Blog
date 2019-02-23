@@ -1,0 +1,36 @@
+body
+        { 
+            font: 14px sans-serif;
+            background-color: #DCD0C0 ;
+            color: black;
+        }
+
+.wrapper
+		{
+		 width: 350px;
+		 padding: 20px;
+		 padding-bottom: 275px; 
+		}
+
+.foot
+		{
+            color: black;
+        }
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+.navbar-default {
+    background-color: #C0B283;
+    border-color: #C0B283;
+    color: black;
+    font-size: 18px;
+    }
+    
+footer {
+
+    background-color:#C0B283;
+    padding: 0px;
+    color: black;
+    }
